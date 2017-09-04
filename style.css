@@ -153,4 +153,5 @@ a {
 {
 	color: #fff;
     -webkit-background-clip: text;
+	text-decoration: none;
 }
