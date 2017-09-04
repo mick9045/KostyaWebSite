@@ -156,6 +156,7 @@ a {
 	text-decoration: none;
 }
 
+<<<<<<< HEAD
 .menuIndex
 {
 	background: red;
@@ -197,4 +198,48 @@ transition: all 0.5s ease;
 .table_image{
 	width:16%; 
 	height:38%;
+=======
+.nation
+{
+    margin: 10px;
+    background: #1C1C1E;
+    border-radius: 10px;
+}
+
+.nation .name
+{
+    color: white;
+    padding: 10px;
+    font-size: 2em;
+}
+
+.tank
+{
+    color: white;
+    margin: 20px;
+}
+
+.tank .name
+{
+    font-size: 2em;
+    color: #FA8D1C;
+}
+
+.tank img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.tankDescription
+{
+    padding: 0px 10px 0px 10px;
+    vertical-align: top;
+    color: #b8b8a2;
+}
+
+.tankDefenition
+{
+    width: 100%;
+>>>>>>> 8b4bd1b3b66544f038c1b1374d939c76f02c7756
 }
