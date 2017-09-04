@@ -23,8 +23,8 @@
 
 
     #content .image_container {
-
-        width: 24.0625%;
+		
+        width: 30%;
         float: left;
         margin: 10px;
     }
@@ -34,9 +34,10 @@
 
 #content .image_container .image_wrap
 {
+	 
     border: 1px solid #b2b0b0;
 	   float: left;
-	   		height: 250px;
+	   		height: 280px;
 }
 
  #content .image_container img {
