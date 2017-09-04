@@ -1,0 +1,51 @@
+.title{
+	text-align: center;
+	font-size: 200%;
+}
+
+#content .image_container .image_wrap .description
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    overflow-y: hidden;
+    width: auto;
+    height: 100px;
+    line-height: 100px;
+    
+}
+
+#content .image_container .image_wrap .description .description_wrap{
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 0.1875em;
+}
+
+
+    #content .image_container {
+
+        width: 24.0625%;
+        float: left;
+        margin: 10px;
+    }
+
+
+
+
+#content .image_container .image_wrap
+{
+    border: 1px solid #b2b0b0;
+	   float: left;
+	   		height: 250px;
+}
+
+ #content .image_container img {
+    width: 100%;
+    height: auto;
+}
+
+#content .image_container .image_wrap:hover
+{
+    border: 1px solid black;
+}
+
