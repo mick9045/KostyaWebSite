@@ -243,3 +243,54 @@ transition: all 0.5s ease;
     width: 100%;
 >>>>>>> 8b4bd1b3b66544f038c1b1374d939c76f02c7756
 }
+
+
+.logo
+{
+	color: #fff;
+    -webkit-background-clip: text;
+	text-decoration: none;
+}
+
+.menuIndex
+{
+	background: red;
+}
+
+.table_style {
+background: #f5ffff;
+border-collapse: collapse;
+text-align: left;
+font-size:20px;
+font-family : Arial;
+width: 100%;
+height: 100%;
+}
+.table_style th {
+border-top: 1px solid #777777;
+border-bottom: 1px solid #777777;
+box-shadow: inset 0 1px 0 #999999, inset 0 -1px 0 #999999;
+background: linear-gradient(#9595b6, #5a567f);
+color: white;
+padding: 10px 15px;
+}
+.table_style th:first-child {
+border-left: 1px solid #777777;
+border-bottom: 1px solid #777777;
+box-shadow: inset 1px 1px 0 #999999, inset 0 -1px 0 #999999;
+}
+.table_style th:last-child {
+border-right: 1px solid #777777;
+border-bottom: 1px solid #777777;
+box-shadow: inset -1px 1px 0 #999999, inset 0 -1px 0 #999999;
+}
+.table_style td {
+border: 1px solid #e3eef7;
+padding: 10px 15px;
+transition: all 0.5s ease;
+}
+
+.table_image{
+	width:16%; 
+	height:38%;
+}
