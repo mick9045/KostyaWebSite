@@ -55,7 +55,7 @@ a {
     text-decoration: none;
 }
 
-#menu ul li a:hover {
+#menu ul li a:hover, #menuIndex {
     background: #0e0e10;
 }
 
@@ -154,4 +154,9 @@ a {
 	color: #fff;
     -webkit-background-clip: text;
 	text-decoration: none;
+}
+
+.menuIndex
+{
+	background: red;
 }
