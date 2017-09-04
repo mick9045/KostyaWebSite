@@ -246,6 +246,8 @@ transition: all 0.5s ease;
 #wot_aboutme {
 	float: center;
 	border: 2px solid #000;
+	margin-left: auto;
+    margin-right: auto;
 	width: 810px;
 }
 #wot_aboutme img{
