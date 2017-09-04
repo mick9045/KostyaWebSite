@@ -149,4 +149,9 @@ a {
 	clear: both;
 	
 }
-
+.Logo
+{
+	position:absolute;
+	color: #fff;
+    -webkit-background-clip: text;
+}
