@@ -229,6 +229,7 @@ border-bottom: 1px solid #777777;
 background: linear-gradient(to top, #333, #999);
 color: white;
 padding: 10px 15px;
+text-align: center;
 }
 
 .table_style td {
