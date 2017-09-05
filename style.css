@@ -155,6 +155,7 @@ a {
     margin: 10px;
     background: #1C1C1E;
     border-radius: 10px;
+	padding-bottom: 10px;
 }
 
 .nation .name
@@ -192,6 +193,7 @@ a {
 .tankDefenition
 {
     width: 100%;
+	padding: 10px;
 }
 
 .logo
@@ -253,15 +255,11 @@ transition: all 0.5s ease;
 	border: 2px solid #000;
 	margin-left: auto;
     margin-right: auto;
-	width: 930px;
-	margin-bottom: 20px;
+	width: 950px;
 }
 #wot_aboutme img{
     border: 5px solid #e4e4e4;
     display: block;
-	max-width: 920px;
+	max-width: 940px;
     background: transparent;
-}
-#aboutmeText{	
-	 margin: 20px;
 }
