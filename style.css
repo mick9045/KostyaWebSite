@@ -226,7 +226,7 @@ height: 100%;
 .table_style th {
 border-top: 1px solid #777777;
 border-bottom: 1px solid #777777;
-background: #595959;
+background: linear-gradient(to top, #333, #999);
 color: white;
 padding: 10px 15px;
 }
