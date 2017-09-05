@@ -251,11 +251,15 @@ transition: all 0.5s ease;
 	border: 2px solid #000;
 	margin-left: auto;
     margin-right: auto;
-	width: 950px;
+	width: 930px;
+	margin-bottom: 20px;
 }
 #wot_aboutme img{
     border: 5px solid #e4e4e4;
     display: block;
-	max-width: 940px;
+	max-width: 920px;
     background: transparent;
+}
+#aboutmeText{	
+	 margin: 20px;
 }
