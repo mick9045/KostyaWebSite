@@ -196,6 +196,11 @@ a {
 	padding: 10px;
 }
 
+.tankDefenition td
+{
+    width: 50%;
+}
+
 .logo
 {
 	color: #fff;
