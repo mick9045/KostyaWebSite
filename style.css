@@ -19,7 +19,7 @@ a {
     font-size: 14px;
 }
 
-#container {
+.container {
     width: 100%;
 
     color: #000;
@@ -27,14 +27,14 @@ a {
     font-family: Trebuchet MS, Arial, Times New Roman;
 }
 
-#header {
+.header {
     width: 100%;
     height: 10px;
 
     background: #000;
 }
 
-#menu {
+.menu {
     width: 100%;
     height: 40px;
     border-radius: 5px;
@@ -43,23 +43,23 @@ a {
     line-height: 40px;
 }
 
-#menu li {
+.menu li {
     display: inline;
     padding: 5px 10px;
     list-style: none;
 }
 
-#menu ul li a {
+.menu ul li a {
     padding: 4px 10px;
     color: #e4e4e4;
     text-decoration: none;
 }
 
-#menu ul li a:hover, #menuIndex {
+.menu ul li a:hover, #menuIndex {
     background: #0e0e10;
 }
 
-#content {
+.content {
     margin: 0;
     min-height: 500px;
     width: 100%;
@@ -67,13 +67,13 @@ a {
     background: #fff;
 }
 
-#content h2 {
+.content h2 {
 	margin:0;
     font-weight:bold;
 	padding: 0px 10px;
 }
 
-#footer {
+.footer {
     width: 100%;
     height: 50px;
 
@@ -81,39 +81,39 @@ a {
     text-align: center;
 }
 
-#footer p {
+.footer p {
     margin: 0;
 
     color: #e4e4e4;
     line-height: 40px;
 }
 
-#footer a {
+.footer a {
     color: #e4e4e4;
     font-weight: normal;
 }
 
-#footer a:hover {
+.footer a:hover {
     color: #fff;
     text-decoration: none;
 }
 
-#position {
+.position {
     width: 100%;
 }
 
-#header_text {
+.header_text {
     margin: 0px 30px;
 
     height: 75px;
     font-family: comic sans ms;
 }
 
-#header_text p {
+.header_text p {
     display: inline;
     font-size: 4em;
 }
-#border {
+.border {
     border: 1px solid;
 }
 .wot_index {
@@ -247,7 +247,7 @@ transition: all 0.5s ease;
 .table_text{
 	margin-top:15px;
 }
-#wot_aboutme {
+.wot_aboutme {
 	float: center;
 	border: 2px solid #000;
 	margin-left: auto;
@@ -255,13 +255,13 @@ transition: all 0.5s ease;
 	width: 930px;
 	margin-bottom: 20px;
 }
-#wot_aboutme img{
+.wot_aboutme img{
     border: 5px solid #e4e4e4;
     display: block;
 	max-width: 920px;
     background: transparent;
 }
-#aboutmeText{	
+.aboutmeText{	
 	 margin: 20px;
 }
 
